@@ -1,6 +1,8 @@
 # Tutorials
 
 * [Amit](https://simblob.blogspot.com/) has a [great explanation of A* algorithm with visualizations](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+* [A great primer](https://github.com/donnemartin/system-design-primer) on design of reliable, scalable systems.
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x) for many values of X.
 
 # Free Stuff
 
