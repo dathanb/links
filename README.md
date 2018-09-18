@@ -13,3 +13,5 @@
 
 * [Ayende's blog](https://ayende.com/blog/) is a gold mine of information about developing professional software in C#, performance optimization, and concurrency.
 * [Rands in Respose](http://randsinrepose.com/) for management tips in a software engineering context.
+* [Fabulous Adventures in Coding](https://ericlippert.com/) is the blog of Eric Lippert, formerly of the C# compiler team. It's chock-full of static analysis goodness.
+* [Jepsen](https://jepsen.io/) tracks behavior of databases against CAP theorem guarantees. Seeing detailed analysis of how systems break under pressure is super-informative about how hard distributed databases are.
