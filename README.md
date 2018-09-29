@@ -4,6 +4,8 @@
 * [A great primer](https://github.com/donnemartin/system-design-primer) on design of reliable, scalable systems.
 * [Build your own X](https://github.com/danistefanovic/build-your-own-x) for many values of X.
 * [Aphyr](https://github.com/aphyr) (of [Jepsen](https://jepsen.io/) fame) teaches a class on distributed systems with [notes online](https://github.com/aphyr/distsys-class)
+* [Jimmy Bogard](https://jimmybogard.com/) has a good multi-part series on [implementing resilient workflows](https://jimmybogard.com/refactoring-towards-resilience-a-primer/) when coordinating multiple services.
+* Jimmy Bogard also has an interesting series on [resiliency built around loose coupling](https://jimmybogard.com/life-beyond-transactions-implementation-primer/).
 
 # Free Stuff
 
