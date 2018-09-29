@@ -10,6 +10,7 @@
 # Free Stuff
 
 * The [Textures Archive](http://www.grsites.com/archive/textures/) has a bunch of free background textures for building games, websites, apps, or just playing around.
+* [Itch.io](https://itch.io/game-assets/free) has as large repository of free and low-cost graphics assets for games (mostly tile- and sprite-focused).
 
 # Blogs
 
