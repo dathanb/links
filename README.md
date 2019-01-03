@@ -11,6 +11,8 @@
 # Papers and Articles
 * [You're Doing It Wrong](https://queue.acm.org/detail.cfm?id=1814327) describes how optimizing algorithms to be virtual-memory-aware can result in 10x speed improvement over algorithms that are theoretically-algorithmically-more-efficient
 * [SageDB: A Learned Database System](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf) describes a database that learns about its data to improve performance.
+* [Martin Fowler's](https://martinfowler.com/) [Accounting Patterns book](https://martinfowler.com/apsupp/accounting.pdf) describes an event-oriented architecture for dealing with common patterns encountered when implementing accounting systems (where "accounting" is defined pretty broadly).
+* [Modern B-Tree Techniques](https://www.nowpublishers.com/article/DownloadSummary/DBS-028) describes modern features, capabilities, and techniques for implementing or augmenting B-Trees
 
 # Free Stuff
 
