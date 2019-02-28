@@ -15,6 +15,7 @@
 * [Martin Fowler's](https://martinfowler.com/) [Accounting Patterns book](https://martinfowler.com/apsupp/accounting.pdf) describes an event-oriented architecture for dealing with common patterns encountered when implementing accounting systems (where "accounting" is defined pretty broadly).
 * [Modern B-Tree Techniques](https://www.nowpublishers.com/article/DownloadSummary/DBS-028) describes modern features, capabilities, and techniques for implementing or augmenting B-Trees
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) is an in-depth look at how memory works and implications for software design.
+* One of Ayende's employees wrote a great [low-level writeup](https://ayende.com/blog/175009/digging-into-the-coreclr-exceptional-costs-part-i) about the performance impact of exceptions in tight loops.
 
 # Free Stuff
 
