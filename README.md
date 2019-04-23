@@ -17,6 +17,10 @@
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) is an in-depth look at how memory works and implications for software design.
 * One of Ayende's employees wrote a great [low-level writeup](https://ayende.com/blog/175009/digging-into-the-coreclr-exceptional-costs-part-i) about the performance impact of exceptions in tight loops.
 
+# Collections
+
+* [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) is a curated collection of lists of falsehoods that programmers believe. It's very informative.
+
 # Free Stuff
 
 * The [Textures Archive](http://www.grsites.com/archive/textures/) has a bunch of free background textures for building games, websites, apps, or just playing around.
