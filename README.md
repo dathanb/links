@@ -16,6 +16,12 @@
 * [Modern B-Tree Techniques](https://www.nowpublishers.com/article/DownloadSummary/DBS-028) describes modern features, capabilities, and techniques for implementing or augmenting B-Trees
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) is an in-depth look at how memory works and implications for software design.
 * One of Ayende's employees wrote a great [low-level writeup](https://ayende.com/blog/175009/digging-into-the-coreclr-exceptional-costs-part-i) about the performance impact of exceptions in tight loops.
+* Adrian Colyer's consensus paper write-ups are great for understanding distributed consensus:
+  * ["Distributed consensus revised" paper](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf)
+    * [Part 1](https://blog.acolyer.org/2019/05/07/distributed-consensus-revised-part-i/)
+    * [Part 2](https://blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/)
+    * [Part 3](https://blog.acolyer.org/2019/05/10/distributed-consensus-revised-part-iii/)
+  * [Can't we all just agree?](https://blog.acolyer.org/2015/03/01/cant-we-all-just-agree/) ten-part series
 
 # Collections
 
