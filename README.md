@@ -8,6 +8,7 @@
   * [implementing resilient workflows](https://jimmybogard.com/refactoring-towards-resilience-a-primer/) when coordinating multiple services.
   * [resiliency built around loose coupling](https://jimmybogard.com/life-beyond-transactions-implementation-primer/).
 * A great [TypeScript project starter](https://github.com/bitjson/typescript-starter)
+* Seth Robertson has a fantastic, [choose-your-own-adventure tutorial](http://sethrobertson.github.io/GitFixUm/fixup.html) on modifying your Git history.
 
 # Papers and Articles
 * [You're Doing It Wrong](https://queue.acm.org/detail.cfm?id=1814327) describes how optimizing algorithms to be virtual-memory-aware can result in 10x speed improvement over algorithms that are theoretically-algorithmically-more-efficient
