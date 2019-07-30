@@ -27,6 +27,7 @@
 # Collections
 
 * [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) is a curated collection of lists of falsehoods that programmers believe. It's very informative.
+* [Awesome CRDT](https://github.com/alangibson/awesome-crdt) is a curated collection of articles, papers, blog posts, tutorials, and libraries about CRDTs.
 
 # Free Stuff
 
