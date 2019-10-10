@@ -34,6 +34,7 @@
 * The [Textures Archive](http://www.grsites.com/archive/textures/) has a bunch of free background textures for building games, websites, apps, or just playing around.
 * [Itch.io](https://itch.io/game-assets/free) has as large repository of free and low-cost graphics assets for games (mostly tile- and sprite-focused).
 * [Scott Hanelman's](https://www.hanselman.com/) [tools list](https://hanselman.com/tools)
+* [The Billion Taxi Ride Dataset](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) contains ride information for over a billion taxi and other for-hire-vehicle rides, and is open data.
 
 # Blogs
 
