@@ -9,3 +9,4 @@ A list of interesting algorithms and data structures.
   - [Here's an interesting thread](https://web.archive.org/web/20160308183811/http://1017.songtrellisopml.com/whatsbeenwroughtusingpiecetables) 
     about Piece Tables
 * [Ropes](https://en.wikipedia.org/wiki/Rope_(data_structure)) binary trees useful for operations on long strings.
+* [Suffix Trees](https://en.wikipedia.org/wiki/Suffix_tree) are tries that contain as their keys every suffix of a given text. They make lots of useful string operations efficient.
