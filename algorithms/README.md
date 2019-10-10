@@ -8,4 +8,4 @@ A list of interesting algorithms and data structures.
 * [Piece Tables](https://en.wikipedia.org/wiki/Piece_table) represent a series of composable edits to an initial span of text.
   - [Here's an interesting thread](https://web.archive.org/web/20160308183811/http://1017.songtrellisopml.com/whatsbeenwroughtusingpiecetables) 
     about Piece Tables
-* [Ropes](https://en.wikipedia.org/wiki/Rope_(data_structure) binary trees useful for operations on long strings.
+* [Ropes](https://en.wikipedia.org/wiki/Rope_(data_structure)) binary trees useful for operations on long strings.
