@@ -24,6 +24,9 @@
     * [Part 2](https://blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/)
     * [Part 3](https://blog.acolyer.org/2019/05/10/distributed-consensus-revised-part-iii/)
   * [Can't we all just agree?](https://blog.acolyer.org/2015/03/01/cant-we-all-just-agree/) ten-part series
+  
+# Lists
+* [Hacker Laws](https://github.com/dwmkerr/hacker-laws): "laws" about computing.
 
 # Collections
 
