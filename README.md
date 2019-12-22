@@ -16,7 +16,9 @@
 * [SageDB: A Learned Database System](http://cidrdb.org/cidr2019/papers/p117-kraska-cidr19.pdf) describes a database that learns about its data to improve performance.
 * [Martin Fowler's](https://martinfowler.com/) [Accounting Patterns book](https://martinfowler.com/apsupp/accounting.pdf) describes an event-oriented architecture for dealing with common patterns encountered when implementing accounting systems (where "accounting" is defined pretty broadly).
 * [Modern B-Tree Techniques](https://www.nowpublishers.com/article/DownloadSummary/DBS-028) describes modern features, capabilities, and techniques for implementing or augmenting B-Trees
+* [The Design and Implementation of Modern Column-Oriented Databases](http://db.csail.mit.edu/pubs/abadi-column-stores.pdf) looks at how column-oriented databases are built under the hood.
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) is an in-depth look at how memory works and implications for software design.
+* [Sorting in the Presence of Branch Prediction and Caches](https://www.scss.tcd.ie/publications/tech-reports/reports.05/TCD-CS-2005-57.pdf) explores the implications of modern CPU architectures for common sorting algorithms.
 * One of Ayende's employees wrote a great [low-level writeup](https://ayende.com/blog/175009/digging-into-the-coreclr-exceptional-costs-part-i) about the performance impact of exceptions in tight loops.
 * Adrian Colyer's consensus paper write-ups are great for understanding distributed consensus:
   * ["Distributed consensus revised" paper](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf)
