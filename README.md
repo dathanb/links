@@ -27,6 +27,7 @@
     * [Part 2](https://blog.acolyer.org/2019/05/08/distributed-consensus-revised-part-ii/)
     * [Part 3](https://blog.acolyer.org/2019/05/10/distributed-consensus-revised-part-iii/)
   * [Can't we all just agree?](https://blog.acolyer.org/2015/03/01/cant-we-all-just-agree/) ten-part series
+* [Brendan Gregg](http://www.brendangregg.com/) has a great [list of article links](http://www.brendangregg.com/linuxperf.html) about understanding system and application performance on Linux. (He's the author of many of the articles linked and tools discussed.)
   
 # Lists
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws): "laws" about computing.
