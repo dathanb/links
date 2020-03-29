@@ -39,6 +39,7 @@
 * [Data-Oriented Design Resources](https://github.com/dbartolini/data-oriented-design) is a collection of links and reading about how to design your code -- and change your thinking -- around data and its performance implications as a first-class concern.
 * [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) is a curated list of open-source workflow engines.
 * [Awesome](https://github.com/sindresorhus/awesome) is a collection of "awesome lists" similar to the ones above.
+* [Awesome Lists](https://github.com/topics/awesome-list) is a github topic containing links to "awesome lists". Kinda like the item immediately above, but curated by the community instead of a single user.
 
 # Free Stuff
 
