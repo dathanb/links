@@ -38,6 +38,7 @@
 * [Awesome CRDT](https://github.com/alangibson/awesome-crdt) is a curated collection of articles, papers, blog posts, tutorials, and libraries about CRDTs.
 * [Data-Oriented Design Resources](https://github.com/dbartolini/data-oriented-design) is a collection of links and reading about how to design your code -- and change your thinking -- around data and its performance implications as a first-class concern.
 * [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) is a curated list of open-source workflow engines.
+* [Awesome](https://github.com/sindresorhus/awesome) is a collection of "awesome lists" similar to the ones above.
 
 # Free Stuff
 
