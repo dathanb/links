@@ -40,6 +40,7 @@
 * [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) is a curated list of open-source workflow engines.
 * [Awesome](https://github.com/sindresorhus/awesome) is a collection of "awesome lists" similar to the ones above.
 * [Awesome Lists](https://github.com/topics/awesome-list) is a github topic containing links to "awesome lists". Kinda like the item immediately above, but curated by the community instead of a single user.
+* [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) is a list of design patterns with implementations in Java.
 
 # Free Stuff
 
