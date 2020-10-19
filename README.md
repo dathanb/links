@@ -41,6 +41,7 @@
 * [Awesome](https://github.com/sindresorhus/awesome) is a collection of "awesome lists" similar to the ones above.
 * [Awesome Lists](https://github.com/topics/awesome-list) is a github topic containing links to "awesome lists". Kinda like the item immediately above, but curated by the community instead of a single user.
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) is a list of design patterns with implementations in Java.
+* [Dr. Jeff Huang](https://jeffhuang.com/) has [compiled a list of the "best paper" award-winning papers](https://jeffhuang.com/best_paper_awards/) from thirty different industry and academic CS and SE conferences for the last 24 years. If you want to read the cream of the crop in conference papers, this is the first place to go.
 
 # Free Stuff
 
@@ -55,3 +56,4 @@
 * [Rands in Repose](http://randsinrepose.com/) for management tips in a software engineering context.
 * [Fabulous Adventures in Coding](https://ericlippert.com/) is the blog of Eric Lippert, formerly of the C# compiler team. It's chock-full of static analysis goodness.
 * [Jepsen](https://jepsen.io/) tracks behavior of databases against CAP theorem guarantees. Seeing detailed analysis of how systems break under pressure is super-informative about how hard distributed databases are.
+* [Adrian Colyer](https://twitter.com/adriancolyer) runs [the morning paper](https://blog.acolyer.org/), where he reads and writes a summary of one technology or CS paper per day. This is maybe the best resource available for staying abreast of the state of the art in CS and software engineering, albeit mostly on the academic side.
