@@ -43,6 +43,7 @@
 * [Awesome Lists](https://github.com/topics/awesome-list) is a github topic containing links to "awesome lists". Kinda like the item immediately above, but curated by the community instead of a single user.
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) is a list of design patterns with implementations in Java.
 * [Dr. Jeff Huang](https://jeffhuang.com/) has [compiled a list of the "best paper" award-winning papers](https://jeffhuang.com/best_paper_awards/) from thirty different industry and academic CS and SE conferences for the last 24 years. If you want to read the cream of the crop in conference papers, this is the first place to go.
+* [Lorin Hochstein](https://github.com/lorin/resilience-engineering) has compiled maybe the most comprehensive list of resources for resilience engineering on the Web.
 
 # Free Stuff
 
