@@ -29,6 +29,7 @@
   * [Can't we all just agree?](https://blog.acolyer.org/2015/03/01/cant-we-all-just-agree/) ten-part series
 * [Brendan Gregg](http://www.brendangregg.com/) has a great [list of article links](http://www.brendangregg.com/linuxperf.html) about understanding system and application performance on Linux. (He's the author of many of the articles linked and tools discussed.)
 * [Everything You Ever Wanted to Know About Terminals](https://xn--rpa.cc/irl/term.html) is a VERY detailed walkthrough of how to do advanced terminal-mode programming without using things like ncurses.
+* MIT's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html) is available for free online.
   
 # Lists
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws): "laws" about computing.
