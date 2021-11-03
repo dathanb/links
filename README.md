@@ -32,6 +32,7 @@
 * [Everything You Ever Wanted to Know About Terminals](https://xn--rpa.cc/irl/term.html) is a VERY detailed walkthrough of how to do advanced terminal-mode programming without using things like ncurses.
 * MIT's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html) is available for free online.
 * [How to Build a Highly Available System Using Consensus](http://bwlampson.site/58-Consensus/WebPage.html) is a discussion of how to use consensus for distributed and fault-tolerant systems.
+* [Alex Komoroske](https://komoroske.com/) has [a great presentation on how organizational dysfunction occurs and how to combat it](https://komoroske.com/slime-mold/), with bonus chatter about how cool slime molds are.
   
 # Lists
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws): "laws" about computing.
