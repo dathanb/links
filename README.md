@@ -12,6 +12,8 @@
 * [AsyncGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) has a bunch of gotchas and error scenarios juxtaposed against best practices for async programming.
 * [Software Design and Architecture in Haskell](https://github.com/graninas/software-design-in-haskell) is a curated collection of links to resources about building real software in Haskell.
 * [System Design Primer](https://github.com/donnemartin/system-design-primer) is an overview of system design considerations and patterns.
+* [Encryption and Security Tutorial](https://www.cs.auckland.ac.nz/~pgut001/tutorial/index.html) is 973 slides worth of discussion of encryption. There's a lot there.
+* [OpenSSL PKI Tutorial](https://pki-tutorial.readthedocs.io/en/latest/) will walk through the entire lifecycle of managing PKI using OpenSSL.
 
 # Papers and Articles
 * [You're Doing It Wrong](https://queue.acm.org/detail.cfm?id=1814327) describes how optimizing algorithms to be virtual-memory-aware can result in 10x speed improvement over algorithms that are theoretically-algorithmically-more-efficient
