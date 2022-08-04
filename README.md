@@ -35,6 +35,7 @@
 * MIT's [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html) is available for free online.
 * [How to Build a Highly Available System Using Consensus](http://bwlampson.site/58-Consensus/WebPage.html) is a discussion of how to use consensus for distributed and fault-tolerant systems.
 * [Alex Komoroske](https://komoroske.com/) has [a great presentation on how organizational dysfunction occurs and how to combat it](https://komoroske.com/slime-mold/), with bonus chatter about how cool slime molds are.
+* [Art of Readme](https://github.com/hackergrrl/art-of-readme) describes how to write and structure a good readme. (I'm a big fan of the suggestion to put usage and API above installation!)
   
 # Lists
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws): "laws" about computing.
