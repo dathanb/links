@@ -36,6 +36,7 @@
 * [How to Build a Highly Available System Using Consensus](http://bwlampson.site/58-Consensus/WebPage.html) is a discussion of how to use consensus for distributed and fault-tolerant systems.
 * [Alex Komoroske](https://komoroske.com/) has [a great presentation on how organizational dysfunction occurs and how to combat it](https://komoroske.com/slime-mold/), with bonus chatter about how cool slime molds are.
 * [Art of Readme](https://github.com/hackergrrl/art-of-readme) describes how to write and structure a good readme. (I'm a big fan of the suggestion to put usage and API above installation!)
+* [How Complex Systems Fail](https://how.complexsystems.fail/) should be required reading for everyone working with complex systems. It's articulate and insightful and incredibly useful.
   
 # Lists
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws): "laws" about computing.
