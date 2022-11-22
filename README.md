@@ -62,6 +62,7 @@
 * [The Billion Taxi Ride Dataset](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) contains ride information for over a billion taxi and other for-hire-vehicle rides, and is open data.
 * [Open Source Society University Computer Science curriculum](https://github.com/ossu/computer-science)
 * [100+ Free Programming Books](https://www.theinsaneapp.com/2021/01/free-programming-books.html)
+* [Word lists](https://github.com/scrabblewords/scrabblewords/tree/main/words) for Scrabble (or whatever you might want a word list for)
 
 # Blogs
 
