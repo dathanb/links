@@ -41,6 +41,7 @@
 # Lists
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws): "laws" about computing.
 * [Chris Kelly's list of must-read book](https://ckdake.com/books.html): a good list of high-quality books for IC's and managers in the software domain
+* [BuildList.org](https://buildlist.org/#overview): A directory of on-demand manufacturers for your creative projects.
 
 # Collections
 
