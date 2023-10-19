@@ -12,6 +12,7 @@
 * [AsyncGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md) has a bunch of gotchas and error scenarios juxtaposed against best practices for async programming.
 * [Software Design and Architecture in Haskell](https://github.com/graninas/software-design-in-haskell) is a curated collection of links to resources about building real software in Haskell.
 * [System Design Primer](https://github.com/donnemartin/system-design-primer) is an overview of system design considerations and patterns.
+* [System Design 101](https://github.com/ByteByteGoHq/system-design-101) is a dense cheat sheet for system design patterns and considerations.
 * [Encryption and Security Tutorial](https://www.cs.auckland.ac.nz/~pgut001/tutorial/index.html) is 973 slides worth of discussion of encryption. There's a lot there.
 * [OpenSSL PKI Tutorial](https://pki-tutorial.readthedocs.io/en/latest/) will walk through the entire lifecycle of managing PKI using OpenSSL.
 
